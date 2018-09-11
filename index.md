@@ -1,3 +1,7 @@
+# Salt Lake City R Users Group
+
+This page is currently under construction.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/slc-rug/slc-rug.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
